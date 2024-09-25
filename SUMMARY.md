@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Notes](README.md)
-* [Summarises assessment brief](summarises-assessment-brief.md)
+* [Assessment brief](assessment-brief.md)
