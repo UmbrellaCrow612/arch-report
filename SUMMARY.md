@@ -3,6 +3,7 @@
 * [Notes](README.md)
 * [Assessment brief](summarises-assessment-brief.md)
 * [Mark Scheme](mark-scheme.md)
+* [Case Study](case-study.md)
 
 ## Task One
 
