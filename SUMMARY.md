@@ -4,6 +4,7 @@
 * [Assessment brief](summarises-assessment-brief.md)
 * [Mark Scheme](mark-scheme.md)
 * [Case Study](case-study.md)
+* [Google Docs Template](google-docs-template.md)
 
 ## Task One
 
