@@ -1,6 +1,6 @@
 ---
-icon: sigma
 description: Short version
+icon: sigma
 cover: .gitbook/assets/summary-concept-people-letters-icons-260nw-1346289404.webp
 coverY: 0
 ---
